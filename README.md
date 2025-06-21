@@ -20,9 +20,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 -Setup on Domain Controller VM (DC-1) and a Client in Azure and set the Domain Controller as the DNS Server
+
 -Install Active Directiory Domain Servies on the Domain Controller VM 
--Create a Domain Admin user within the domain
+
+-Create a Domain Admin user within the 
+
 -Join client to the domain 
+
 -Create additional users and attempt to log into client with one of the users.
 
 <h2>Deployment and Configuration Steps</h2>
